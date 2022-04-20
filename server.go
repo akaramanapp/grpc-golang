@@ -6,7 +6,7 @@ import (
 	"log"
 	"net"
 
-	livescore "github.com/akaramanapp/grpc-golang/api"
+	livescore "github.com/akaramanapp/grpc-golang/livescore"
 	"google.golang.org/grpc"
 )
 
